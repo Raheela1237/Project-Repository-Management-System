@@ -37,7 +37,7 @@ A safe delete feature with a confirmation dialog box to prevent accidental data 
 
 ### 6. View Project Details
 Double-click any project to view its complete details in a separate popup window.
-![View Project Details](view.png)
+![View Project Details](View.png)
 
 ### 7. Manage Supervisors
 Add new supervisors with their Name, Department, and Email. Email validation is built-in to prevent invalid entries.
@@ -49,7 +49,7 @@ View a complete list of all registered supervisors along with their IDs (used fo
 
 ### 9. Generate & Save Reports
 Generate detailed text reports for Projects, Supervisors, or the Full System, and save them directly to your computer.
-![Reports Generation](LReprt_g.png)
+![Reports Generation](Reprt_g.png)
 
 
 ## ✨ Key Features
