@@ -18,7 +18,7 @@ Here is a detailed look at the application interface:
 ### 1. Dashboard & Project List
 Manage all your projects in one place. View project ID, title, technology, student name, assigned supervisor, and description.
 
-![Dashboard & Project List](Dashboard.png)
+![Dashboard & Project List](Dashborad.png)
 
 ### 2. Search Functionality
 Quickly find any project by searching using its ID, Title, Technology, or Student Name.
